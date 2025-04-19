@@ -8,7 +8,7 @@ import DemoComputer from "../components/DemoComputer.jsx";
 const Projects = props => {
     const currentProject = myProjects[0];
     return (
-        <section className="c-space my-20" id="work">
+        <section className="c-space my-20" id="Projects">
             <p className="head-text">My Work</p>
 
             <div className="grid lg:grid-cols-2 grid-cols-1 mt-12 gap-5 w-full">
